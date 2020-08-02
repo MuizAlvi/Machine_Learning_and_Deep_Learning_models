@@ -11,3 +11,9 @@ Repository containing models based on ideas of Machine learning and Deep learnin
     - Image Data: https://www.kaggle.com/c/dogs-vs-cats/data (25000 images of cats and dogs)
     - Model experiences overfitting and needs to be improved
     - Model has not been tested for now due to overfitting on the training set
+
+3. Cat and Dog Classifier 2.0 [using existing model] - Convolution Neural Network
+    - Trains existing model VGG16 (with some alterations)
+    - Uses data prepeartion used in the previous upload (Cat and Dog Classifier - Convolution Neural Network)
+    - Highly accurate model with no overfitting
+    
