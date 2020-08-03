@@ -20,3 +20,7 @@ Repository containing models based on ideas of Machine learning and Deep learnin
     - Highly accurate model with no overfitting
     
     
+4. Image Classification [using existing model] - MobileNet
+    - Importing a pre-trained model and testing its ability of identify sample images
+    - This model is broader than the Cat and Dog Classifiers previously uploaded
+    - It tells percentage of possible assumptions of an object present in an image provided to it
