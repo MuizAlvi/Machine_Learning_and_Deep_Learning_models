@@ -24,3 +24,7 @@ Repository containing models based on ideas of Machine learning and Deep learnin
     - Importing a pre-trained model and testing its ability of identify sample images
     - This model is broader than the Cat and Dog Classifiers previously uploaded
     - It tells percentage of possible assumptions of an object present in an image provided to it
+
+5. Sign Language Digits Classification [using fine tuned existing model] - MobileNet 
+    - Uses dataset https://github.com/ardamavi/Sign-Language-Digits-Dataset
+    - Makes use of pre-existing model 
