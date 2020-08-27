@@ -28,3 +28,7 @@ Repository containing models based on ideas of Machine learning and Deep learnin
 5. Sign Language Digits Classification [using fine tuned existing model] - MobileNet 
     - Uses dataset https://github.com/ardamavi/Sign-Language-Digits-Dataset
     - Makes use of pre-existing model 
+
+6. Data Augmentation
+    - Creates data from a single image to be processed by a neural network
+    - Image is rotated, flipped, shifted e.t.c to produce a set of more images
