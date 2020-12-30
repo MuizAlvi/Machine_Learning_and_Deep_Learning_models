@@ -32,3 +32,8 @@ Repository containing models based on ideas of Machine learning and Deep learnin
 6. Data Augmentation
     - Creates data from a single image to be processed by a neural network
     - Image is rotated, flipped, shifted e.t.c to produce a set of more images
+
+7. First Neural Network with Keras API
+    - Uses randomly generated dataset (90% test data, 10% validation data)
+    - View blog post: https://dev.to/muizalvi/build-your-first-neural-network-with-the-keras-api-35b4
+    - Shows final predictions in a confusion matrix
